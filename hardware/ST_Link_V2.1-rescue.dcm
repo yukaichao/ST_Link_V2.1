@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMD-5032_2P_8MHz_20ppm_20pF-lc_CrystalOscillator
+F http://www.szlcsc.com/product/details_117214.html
+$ENDCMP
+#
+$CMP STM32F103C8T6-lc_MCU
+F http://www.szlcsc.com/product/details_9243.html
+$ENDCMP
+#
+#End Doc Library
